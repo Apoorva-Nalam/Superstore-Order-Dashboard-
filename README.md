@@ -80,4 +80,4 @@ Dataset sourced from <span>Kaggle</span> — Superstore Sales Dataset containing
 
 # Screenshots / Demos
   Show what the dashboard looks like. Example:
-
+  ![Dashboard Preview](https://github.com/Apoorva-Nalam/Superstore-Order-Dashboard-/blob/main/Executive%20Analysis.png)
